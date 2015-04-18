@@ -7,8 +7,7 @@ Welcome to the HtmlTextView wiki!
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /><br/>
 2.Import ImageDownloader.java<br/>
 3.Replace the TextView, local path that saves the image, and your html codes in MainActivity.java<br/>
-![image](http://github.com/ITAnt/HtmlTextView/raw/master/screenshots/1.png)
+![image](http://github.com/ITAnt/HtmlTextView/raw/master/screenshots/2.png)
 
 # Run your app, it looks like this:
-
-![image](https://github.com/ITAnt/HtmlTextView/new/master/screenshots/1.png)
+![image](http://github.com/ITAnt/HtmlTextView/raw/master/screenshots/1.png)
