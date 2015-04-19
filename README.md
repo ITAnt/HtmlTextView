@@ -1,6 +1,6 @@
 # HtmlTextView
 Show html codes in the TextView on Android 3.0 or higher version.<br/>
-As we can't do some downloading on Android 3.0 or higher version, so we should download the images in the child thread, and then update the UI through handler.<br/>
+As we can't do some downloading on Android 3.0 or higher version in the main thread, so we should download the images in the child thread, and then update the UI through handler.<br/>
 # How to use:
 1.Add related permission in your AndroidManifest.xml:
   <uses-permission android:name="android.permission.INTERNET"/>
